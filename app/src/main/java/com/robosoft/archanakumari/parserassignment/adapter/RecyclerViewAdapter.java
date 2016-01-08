@@ -30,7 +30,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<ViewHolder>{
     private Context mContext;
     List<SongSite> list;
     Communicator communicator;
-
+//constructor
     public RecyclerViewAdapter(Context  mContext, List<SongSite> list){
         communicator = (Communicator) mContext;
         this. mContext = mContext;

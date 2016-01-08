@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ParserAssignment</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="name">
+        <item>XML Throgh ListView</item>
+        <item>JSON</item>
+        <item>XML Through RecyclerView</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splach">SplachActivity</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="title_activity_display_list_view_by_xml">DisplayListViewByXml</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_connect_to_facebook">ConnectToFacebookActivity</string>
+    <string name="app_id">1103623876337910</string>
+</resources>
